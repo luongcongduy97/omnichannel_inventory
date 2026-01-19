@@ -21,6 +21,7 @@ gem "thruster", require: false
 gem "devise"
 gem "pundit"
 gem "sidekiq"
+gem "connection_pool", "2.5.0"
 gem "redis"
 gem "acts_as_tenant"
 gem "interactor"
